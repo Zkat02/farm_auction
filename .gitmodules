@@ -1,7 +1,9 @@
 [submodule "frontend"]
     path = frontend
-    url = ./frontend
+    url = https://github.com/Zkat02/auction-frontend.git
+
 
 [submodule "auction"]
     path = auction
-    url = ./auction
+    url = https://github.com/Zkat02/auction.git
+    
